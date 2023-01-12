@@ -7,12 +7,12 @@ I'm Omar, a newly minted Java developer and Liverpool fan!
 - 🌱 Graphic Design enthusiast
 
 🛠  Tech Stack
-💻   Java C  (Statistics)
-🌐   HTML5 CSS JavaScript Vue.js
-🛢   PostgreSQL
-⚙️   Git GitHub 
-🔧   Visual Studio Code IDEA IntelliJ
-🖥   Illustrator Photoshop InDesign
+- 💻  Java C 
+- 🌐  HTML5 CSS JavaScript Vue.js
+- 🛢   PostgreSQL
+- ⚙️  Git GitHub 
+- 🔧  Visual Studio Code IDEA IntelliJ
+- 🖥  Illustrator Photoshop InDesign
 
 
 
