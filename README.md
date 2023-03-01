@@ -1,6 +1,6 @@
 ### < 👋 Hola Mundo! />
 
-I'm Omar, a bilingual, newly minted Java developer and Liverpool fan!
+I'm Omar, a bilingual, Java developer and Liverpool fan!
 
 👨🏻‍💻  About Me
 - 🔭 I’m currently working on completing a 30 week fullstack coding bootcamp!
