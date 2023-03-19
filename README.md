@@ -1,10 +1,9 @@
 ### < 👋 Hola Mundo! />
 
-I'm Omar, a bilingual, Java developer and Liverpool fan!
+I'm Omar, a Full-Stack developer!
 
 👨🏻‍💻  About Me
 - 🔭 I’m currently working on completing a 30 week fullstack coding bootcamp!
-- 🌱 Graphic Design enthusiast
 
 🛠  Tech Stack
 - 💻  Java C 
@@ -12,7 +11,6 @@ I'm Omar, a bilingual, Java developer and Liverpool fan!
 - 🛢   PostgreSQL
 - ⚙️  Git GitHub 
 - 🔧  Visual Studio Code IDEA IntelliJ
-- 🖥  Illustrator Photoshop InDesign
 
 
 
