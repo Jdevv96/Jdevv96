@@ -1,7 +1,7 @@
 # :wave: Omar Tejada
 
 ## About Me :computer: 
-I'm an enthusiastic full-stack developer, exploring the digital world one line of code at a time.  I'm a graduate from Tech Elevator's Full-Stack Web Development program, where I learned all about building and contributing to responsive and functional applications, often from scratch. 
+I'm an enthusiastic full-stack developer, exploring the digital world one line of code at a time.  I'm a graduate of Tech Elevator's Full-Stack Web Development program, where I learned all about building and contributing to responsive and functional applications, often from scratch. 
 
 I'm constantly looking to tackle new challenges and learn new tools and technologies. I'm passionate about creating digital solutions that solve real-world problems.
 </br>
