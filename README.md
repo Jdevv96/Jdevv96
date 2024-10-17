@@ -7,9 +7,8 @@ I'm constantly looking to tackle new challenges and learn new tools and technolo
 </br>
 
 ## I'm Currently Working On:
-On the Front-End, I'm currently working on improving my skills as a React developer.
+Creating full-stack web applications using React and Node.js + Express.
 
-On the Back-End, most recently I was learning more about Spring Boot, specifically Data JPA.
 ## Languages and Tools :triangular_ruler::
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
