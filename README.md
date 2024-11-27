@@ -8,15 +8,3 @@ I'm constantly looking to tackle new challenges and learn new tools and technolo
 
 ## I'm Currently Working On:
 Creating full-stack web app using React, Node.js + Express and MongoDB.
-
-
-## Connect with me :iphone::
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" >](https://www.linkedin.com/in/josue-o-tejada/)
-
-
-
-
-
-
-
-
